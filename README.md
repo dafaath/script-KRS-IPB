@@ -1,6 +1,7 @@
-# script-KRS-IPB
+# Script KRS IPB
 script untuk mengambil krs di IPB secara otomatis
 
+`created by dafaath with python`
 
 ## Penggunaan
 1. Clone repo ini `git clone https://github.com/dafaath/script-KRS-IPB.git`
