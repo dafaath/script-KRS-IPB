@@ -7,7 +7,7 @@ script untuk mengambil krs di IPB secara otomatis
 1. Clone repo ini `git clone https://github.com/dafaath/script-KRS-IPB.git`
 2. Install python 3 dan pip, [tutorial disini](https://phoenixnap.com/kb/how-to-install-python-3-windows)
 3. Setelah install buka terminal (cmd/powershell) di direktori file ini
-4. Gunakan command `pip3 -r requirements.txt`, tunggu sampai proses selesai
+4. Gunakan command `pip3 install -r requirements.txt`, tunggu sampai proses selesai
 5. Pastikan sudah install chrome di komputer anda
 6. Buat file dengan nama config.json (nama harus persis) di direktori ini, sehingga setara dengan scriptkrs.py
 7. masukan text ini di config.json
