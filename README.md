@@ -60,6 +60,8 @@ script untuk mengambil krs di IPB secara otomatis
     }]
 }
 ```
+![](https://i.ibb.co/s5tjvKj/image.png)
+
 10. Setelah config.json dibuat dan diisi dengan data yang benar kita bisa menjalankan scriptnya
 ```
 python3 scriptkrs.py
